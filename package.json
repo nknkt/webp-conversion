@@ -1,0 +1,20 @@
+{
+  "name": "webp-conversion-project",
+  "version": "1.0.0",
+  "description": "A project to convert poster images to WebP format.",
+  "main": "src/convert.js",
+  "scripts": {
+    "convert": "node src/convert.js"
+  },
+  "dependencies": {
+    "sharp": "^0.30.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "webp",
+    "image",
+    "conversion"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
